@@ -13,5 +13,9 @@ public class run {
         //driver.manage().timeouts().implicitlyWait(java.time.Duration.ofSeconds(10));
         driver.quit();
         System.out.println("Automation Run");
-         }
+        System.out.println("Test Completed");
+        System.out.println();
+        System.out.println();
+    
+    }
 }
